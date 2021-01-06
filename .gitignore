@@ -25,5 +25,4 @@ build
 .openapi-generator
 .travis.yml
 build.sbt
-git_push.sh
 gradlew*
